@@ -6,6 +6,9 @@ contributor:
     alias: Irwin, Madelaine
     gutenberg_agent_id: '25691'
     url: http://www.gutenberg.org/2009/agents/25691
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Giberne, Agnes
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/47772
     wikipedia: https://en.wikipedia.org/wiki/Agnes_Giberne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73196#Too-dearly-bought-b-or-The-town-strike
 gutenberg_issued: '2024-03-18'
 gutenberg_type: Text
 identifiers:
